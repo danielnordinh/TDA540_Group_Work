@@ -1,6 +1,7 @@
 import java.util.ArrayList;
- // this is a comment
-// this is Eriks second comment
+
+// Detta är vart jag testar mina galna ideer
+
 public class LCRGame {
 
     //getCurrentPlayer
